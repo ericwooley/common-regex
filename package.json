@@ -1,0 +1,24 @@
+{
+  "name": "common-regex",
+  "version": "0.0.1",
+  "description": "Common regex patters as an importable package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericwooley/common-regex.git"
+  },
+  "keywords": [
+    "regex",
+    "library",
+    "common"
+  ],
+  "author": "Eric Wooley <ericwooley@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericwooley/common-regex/issues"
+  },
+  "homepage": "https://github.com/ericwooley/common-regex#readme"
+}
